@@ -17,6 +17,9 @@
 <br>
  
   Example:
+  
+<pre><code>
+  
 var grid = new Ext.grid.GridMultipageSelection({
 	 columns: [
 		 {
@@ -43,6 +46,10 @@ var grid = new Ext.grid.GridMultipageSelection({
 	 ]
 	 ...
  });
+ 
+ 
+ var selectedIds = grid.getSelection();
+ 
 </code></pre>
 
 
