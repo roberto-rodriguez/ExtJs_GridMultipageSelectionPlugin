@@ -10,6 +10,8 @@
 <br>
 <br>
   Copyright 2016 Roberto Rodriguez
+  <br>
+  Email: robertoSoftwareEngineer@gmail.com
 <br>
 
 <img src="http://res.cloudinary.com/titorobe/image/upload/v1468372258/ExtJs_GridMultipageSelectionPlugin_ct7yjh.jpg"></img>
